@@ -26,6 +26,7 @@ body {
 .navbar {
     border-style:solid;
     border-width:2px;
+    padding-bottom:10px;
 }
 .navbar a{
     float:left;
