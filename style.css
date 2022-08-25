@@ -22,3 +22,7 @@ body {
 #gamesubheader {
     margin: 2px;
 }
+
+.navbar a{
+    float:left;
+}
